@@ -16,9 +16,9 @@ The following links are mostly about visionary ideas of future user interface wi
 
 * Vanevar Bush - [As We May Think](https://www.theatlantic.com/magazine/archive/1945/07/as-we-may-think/303881/) (1945)  
 Propose the concept of _memex_ as a collective memory machine, which contains the idea of _hypertext_ in modern Web.
-* J. C. R. Licklider – [Man-Computer Symbiosis](https://groups.csail.mit.edu/medg/people/psz/Licklider.html) (1960)  
+* J. C. R. Licklider - [Man-Computer Symbiosis](https://groups.csail.mit.edu/medg/people/psz/Licklider.html) (1960)  
 Envision a complementary (symbiotic) relationship between humans and computers.
-* Douglas Engelbart – [Augmenting Human Intellect: A Conceptual Framework](http://www.dougengelbart.org/pubs/augment-3906.html) (1962)  
+* Douglas Engelbart - [Augmenting Human Intellect: A Conceptual Framework](http://www.dougengelbart.org/pubs/augment-3906.html) (1962)  
 Propose that computers to increase the capability of human to solve complex problem. Douglas is famous for inventing the computer mouse.
 * Mark Weiser - [The Computer for the 21st Century](https://web.stanford.edu/class/cs240e/papers/weiser.pdf) `PDF` (1991)  
 Suggest technology should weave into everyday lifes and propose prototypes of Tabs, Pads and Boards. Weiser is considered to be the father of _ubiquitous computing_.
@@ -43,24 +43,24 @@ How do people _jack in_ other people's senses? Prof. [Jun Rekimoto](https://lab.
 
 ## Courses
 
-* [University of Tokyo: Interactive Computer Graphics](https://www.coursera.org/learn/interactive-computer-graphics/) `Cousera`  
+* University of Tokyo - [Interactive Computer Graphics](https://www.coursera.org/learn/interactive-computer-graphics/) `Cousera`  
 _Prof. Takeo Igarashi_  
 From graphic user interfaces, 3D modeling and animation, to fabrication. A walkthrough of the projects in Igarashi's lab.
-* [RWTH Aachen University: Current Topics in Media Computing and Human–Computer Interaction](https://hci.rwth-aachen.de/cthci) `iTunes U`  
+* RWTH Aachen University - [Current Topics in Media Computing and Human–Computer Interaction](https://hci.rwth-aachen.de/cthci) `iTunes U`  
 _Prof. Jan Borchers_  
 Research methods, topics on textiles, augmented reality, personal fabrication, multitouch, tangibles etc.
 
 ## Books
 
-* Donald A. Norman, _[The Design of Everyday Things](https://www.amazon.com/Design-Everyday-Things-Revised-Expanded/dp/0465050654)_ (1988 first published)  
+* Donald A. Norman - _[The Design of Everyday Things](https://www.amazon.com/Design-Everyday-Things-Revised-Expanded/dp/0465050654)_ (1988 first published)  
 [《設計的心理學：人性化的產品設計如何改變世界》](http://www.books.com.tw/products/0010643797)  
 Basic human-computer interaction theory including representation, affordance and errors etc.
-* _[Ways of Knowing in HCI](https://www.springer.com/la/book/9781493903771)_ (2014)  
-A collection of articles of HCI researchers on different methods across diciplines.
+* Judith S. Olson (Editor), Wendy A. Kellogg (Editor) - _[Ways of Knowing in HCI](https://www.springer.com/la/book/9781493903771)_ (2014)  
+A collection of articles by HCI researchers on different methods across diciplines.
 
 ## Reading Lists
 
-* [MAS S66: Human machine symbiosis](http://symbiosis.media.mit.edu/readings/)  
+* MIT Media Lab - [MAS S66: Human machine symbiosis](http://symbiosis.media.mit.edu/readings/)  
 Course reading list from MIT Media Lab about the relationship of human and computers.
 
 ## License
