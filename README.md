@@ -22,7 +22,7 @@ Envision a complementary (symbiotic) relationship between humans and computers.
 Propose that computers to increase the capability of human to solve complex problem. Douglas is famous for inventing the computer mouse.
 * Mark Weiser - [The Computer for the 21st Century](https://web.stanford.edu/class/cs240e/papers/weiser.pdf) `PDF` (1991)  
 Suggest technology should weave into everyday lifes and propose prototypes of Tabs, Pads and Boards. Weiser is considered to be the father of _ubiquitous computing_.
-* Hiroshi Ishii et al. - [Radical Atoms](http://web.media.mit.edu/~ishii/RadicalAtoms_REPRINT2.pdf) `PDF` (2012)  
+* Hiroshi Ishii et al. - [Radical Atoms: Beyond Tangible Bits, Toward Transformable Materials](http://web.media.mit.edu/~ishii/RadicalAtoms_REPRINT2.pdf) `PDF` (2012)  
 Envision future materials being dynamic and can transform into different shapes like physical pixels. Hiroshi Ishii is a pioneer in _tangible user interface_.
 
 
